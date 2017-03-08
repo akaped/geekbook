@@ -1,6 +1,6 @@
 # geekbook - note taking system for nerds/geeks!
 
-## This repo is super Outdated. After forking the project mmagnus allowed me to collaborate directly to the orinal project. 
+## This repo is super Outdated. After forking the project mmagnus allowed me to collaborate directly to the original project. 
 Please take a look at https://github.com/mmagnus/geekbook for the current version. 
 
                              -----------------------------
